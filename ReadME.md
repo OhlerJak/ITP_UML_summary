@@ -1,6 +1,6 @@
 # ITP-Zusammenfassung
 ## Activity Diagram ACD
-<img src="ACD.png" width=500>
+<img src="./img/ACD.png" width=500>
 
 ### Bauteile
 - Swimlane
@@ -11,7 +11,7 @@
 - Aufsplittungen (Ifs mit Guards)
 
 ## Use Case Diagram UCD
-<img src="UCD.png" width=500>
+<img src="./img/UCD.png" width=500>
 
 ### Bauteile
 - System (Rechteck mit Name)
@@ -21,7 +21,7 @@
 - Vererbung (Kunden)
 
 ## Component Diagram CPD
-<img src="CPD.png" width=500>
+<img src="./img/CPD.png" width=500>
 
 ### Bauteile
 - APIs (Komponenten)
@@ -29,7 +29,7 @@
 - Dienst beanspruchen (nimmt Lolipop)
 
 ## Deployment Diagram DPD 
-<img src="DPD.png" width=500>
+<img src="./img/DPD.png" width=500>
 
 ### Bauteile
 - Reele Maschinen (Würfel)
@@ -39,8 +39,8 @@
 - Anleitungen (Falls nötig neben dem Deploy) *!!!Wie geht des?!!!*
 
 ## Class Diagram CLD
-<img src="CLD.png" width=500>
-<img src="CLD2.png" width=500>
+<img src="./img/CLD.png" width=500>
+<img src="./img/CLD2.png" width=500>
 
 ### Bauteile 
 - Klassen
@@ -56,4 +56,4 @@
 - Kommposition 
 - Aggregation
 
- ![Komposition & Aggregation](Kom_Agg.png)
+ ![Komposition & Aggregation](./img/Kom_Agg.png)
